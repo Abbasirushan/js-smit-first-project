@@ -54,24 +54,24 @@
 
 //Question No 1
 
-//var age=(22);
+//var age=(18);
 //alert(age);
 
 //Question No 2
 
-//var visitors=("You have visited this site 14 times.");
+//var visitors=("You have visited this site
 //alert(visitors);
 
 //Question No 3
 
-//var birthYear="2002"
+//var birthYear="2005"
 //document.write("<h4>" + birthYear + "</h4>");
 
 //Question No 4
 
-//var customerName = (" Mr Sadam ordered \n");
+//var customerName = (" mr haseeb ordered \n");
 //var quantity = (5);
 //var product = ("T-shirt(s) on \n");
-//var store = ("AnnAmir Brand")
+//var store = ("teejavu Brand")
 
 //document.write(customerName + quantity + product + store)
